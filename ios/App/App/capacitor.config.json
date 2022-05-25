@@ -1,0 +1,6 @@
+{
+	"appId": "io.example.app",
+	"appName": "photo-gallery",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
